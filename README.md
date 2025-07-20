@@ -124,5 +124,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 👩‍💻 Author
 
-* Menna Samir
-* Mohamed Tamer
+* Menna Samir -> structure of the notebook ,data preprocessing ,model training ,best model evaluation, best model deployment(gui)
+* Mohamed Tamer ->uploading the data ,data preprocessing, presentation
