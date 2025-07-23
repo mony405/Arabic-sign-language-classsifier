@@ -118,7 +118,7 @@ python app.py
 * [Linkedin Post](https://www.linkedin.com/feed/update/urn:li:activity:7353690326449950722/)
 ---
 ## YouTube Video 
-* [Linkedin Post](https://youtu.be/1zNSCmUJYdg?si=Lcji73Fzi8-fPKZ6)
+* [Video](https://youtu.be/1zNSCmUJYdg?si=Lcji73Fzi8-fPKZ6)
 ---
 ## 📜 License
 
