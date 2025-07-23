@@ -29,6 +29,7 @@ The goal of this project is to classify hand gesture images representing Arabic 
 ## 🖼️ Dataset
 
 The dataset contains labeled images of Arabic Sign Language characters. Each image represents a single sign corresponding to an Arabic letter or word.
+[data link on kaggle](https://www.kaggle.com/datasets/gannayasser/arabic-alphabets-sign-language-dataset-arasl)
 
 ---
 
@@ -128,5 +129,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 👩‍💻 Author
 
-* Menna Samir -> structure of the notebook ,data preprocessing ,model training ,best model evaluation, best model deployment(gui)
-* Mohamed Tamer ->uploading the data ,data preprocessing, presentation
+* Menna Samir -> structure of the notebook ,data preprocessing ,model training ,best model evaluation, best model deployment(gui),post
+* Mohamed Tamer ->uploading the data ,data preprocessing, presentation,video
